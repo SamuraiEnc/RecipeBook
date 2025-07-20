@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+main{
+    text-align: center;
+}
+
+.recipes-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
